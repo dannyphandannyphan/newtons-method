@@ -9,4 +9,4 @@ Over and over again until we have a sufficiently strong guess (for me I'd say 4 
 
 ### Implementation
 
-We will differentiate the function at that point using the definition of the derivative. The guess point will be up to the user.
+We will differentiate the function at that point using the SymPy module. The guess point will be up to the user.
